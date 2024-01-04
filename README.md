@@ -34,7 +34,8 @@
 プログラムを実行するには、ターミナルまたはコマンドプロンプトで以下のコマンドを入力してください：
 
 ```bash
-python imgdetector.py
+python3 imgdetector.py
+```
 
 ## 依存関係と実行環境
 
