@@ -18,6 +18,15 @@
 - **Matplotlib**: 分析結果の視覚化
 - **Scikit-learn**: 線形回帰分析による特徴抽出
 
+## インストール
+
+リポジトリをクローンします：
+```bash
+git clone https://github.com/Cola0912/RobotVision2-2
+.git
+cd RobotVision2-2
+```
+
 ## 実行方法
 
 1. 必要なライブラリをインストールします:
