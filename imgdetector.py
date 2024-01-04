@@ -6,7 +6,7 @@ import os
 from sklearn.linear_model import LinearRegression
 
 home = os.path.expanduser("~")
-image_path = os.path.join(home, '3dp-webcam-detection/testpicturs/Print_failure-3.jpg')
+image_path = os.path.join(home, 'RobotVision2-2/testpicturs/Print_failure-3.jpg')
 
 image = cv2.imread(image_path)
 if image is None:
