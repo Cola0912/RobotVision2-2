@@ -22,8 +22,7 @@
 
 リポジトリをクローンします：
 ```bash
-git clone https://github.com/Cola0912/RobotVision2-2
-.git
+git clone https://github.com/Cola0912/RobotVision2-2.git
 cd RobotVision2-2
 ```
 
