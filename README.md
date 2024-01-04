@@ -50,7 +50,7 @@ python3 imgdetector.py
 
 ## 依存関係と実行環境
 
-- Python 3.x
+- Python 3.6 以上
 - OpenCV, NumPy, Matplotlib, Scikit-learn
 - 画像ファイルへのアクセス権
 
